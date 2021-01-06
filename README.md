@@ -15,3 +15,8 @@ https://github.com/raywenderlich/aa-materials/tree/editions/3.0
 
 <h3> Create an Android project </h3>
 https://developer.android.com/training/basics/firstapp/creating-project
+
+
+<h3> Android Basics in Kotlin </h3>
+
+https://developer.android.com/courses/android-basics-kotlin/course
